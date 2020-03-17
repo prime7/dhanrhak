@@ -500,6 +500,13 @@
   background-repeat: no-repeat;
 }
 
+.bio-pic.bio-t {
+  background-image: url('../images/dr-pic-Artboard-5.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .div-pic-both {
   display: -webkit-box;
   display: -webkit-flex;
